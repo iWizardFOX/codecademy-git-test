@@ -1,2 +1,2 @@
-# codecademy-git-test
- testings
+Hello!
+This is a Codecademy Git tutorial
